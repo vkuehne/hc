@@ -1,13 +1,9 @@
 Hospitality Club 3.0 Open Source
 ================================
-
 ... going open-source! :-)
-------------------------
+
 
 ### Intro
-
-### Developer Quickstart
-
 Welcome to the new HC code :-) It's open source, so feel free to play with it and help us build the best hospitality exchange network on the planet!
  
 ### Wiki access / Documentation
@@ -21,11 +17,6 @@ Our issue tracker (we won't use the built-in one here). Select hc3 from the Proj
 ### Developer Quickstart
 http://volunteerwiki.hospitalityclub.org/hcos:developer_quickstart
 Should get you started quickly.
-
-### Wiki access / Documentation
-
-* Developer Quickstart
-* Get access to the wiki and mantis
 
 ### Roadmap
 http://volunteerwiki.hospitalityclub.org/hcos:roadmap
